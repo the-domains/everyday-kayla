@@ -4,7 +4,7 @@
         <description><![CDATA[Everyday Kayla]]></description>
         <link>https://thegrid.ai/everyday-kayla/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Dec 2015 03:48:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Dec 2015 03:49:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/everyday-kayla/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About Kayla]]></title>
@@ -19,13 +19,6 @@
             <link>https://thegrid.ai/everyday-kayla/10-things-i-learned-on-the-job/index.html</link>
             <guid isPermaLink="false">447868ca-c2f2-4c74-8767-9a180075341b</guid>
             <pubDate>Thu, 03 Dec 2015 03:43:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Everyday Kayla Logo]]></title>
-            <description><![CDATA[<article><h1>Everyday Kayla Logo</h1><p>Company Logo</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/af06bf14-3ff0-44ca-9b75-d45a30eeb05e.png"></article>]]></description>
-            <link>https://thegrid.ai/everyday-kayla/everyday-kayla-logo/index.html</link>
-            <guid isPermaLink="false">47d5339b-6b0a-4627-bf35-8dd6693d18ad</guid>
-            <pubDate>Thu, 03 Dec 2015 03:19:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
