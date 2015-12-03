@@ -6,18 +6,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-03T03:46:16.347Z'
-dateModified: '2015-12-03T03:46:02.664Z'
+datePublished: '2015-12-03T03:48:05.542Z'
+dateModified: '2015-12-03T03:47:48.406Z'
 author: []
 title: About Kayla
+sourcePath: _posts/2015-12-03-about-kayla.md
+published: true
 authors: []
 publisher:
   name: everydaykayla.com
   domain: www.everydaykayla.com
   url: null
   favicon: null
-sourcePath: _posts/2015-12-03-about-kayla.md
-published: true
 url: about-kayla/index.html
 _context: 'http://schema.org'
 _type: Article
@@ -30,5 +30,6 @@ Kayla Styczinski B.S., University of Minnesota, is an apparel designer who focus
 In her free time, Kayla enjoys doing yoga, spending time with her family and friends, and eating ice cream.
 
 To see more of Kayla's work, click [here][0].
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b0bde421-a2ac-40e1-98ac-3424739eb460.png)
 
 [0]: http://www.everydaykayla.com/work/
