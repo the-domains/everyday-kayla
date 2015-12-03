@@ -6,23 +6,23 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'A few weeks ago, I was introduced to a project TheLadders is running about lessons learned on your first jobs. TheLadders is a comprehensive career platform that helps make job searching simpler, focused, and more efficient! I encourage any of you who are on the job hunt to check them out!'
-datePublished: '2015-12-03T03:43:38.716Z'
-dateModified: '2015-12-03T03:43:20.065Z'
-title: 10 Things I Learned On The Job
+datePublished: '2015-12-03T03:58:40.510Z'
+dateModified: '2015-12-03T03:58:34.695Z'
+title: 10 THINGS I LEARNED ON THE JOB
 author: []
+sourcePath: _posts/2015-12-03-10-things-i-learned-on-the-job.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-03-10-things-i-learned-on-the-job.md
-published: true
 url: 10-things-i-learned-on-the-job/index.html
 _type: Article
 
 ---
-**10 THINGS I LEARNED ON THE JOB**
+# **10 ****THINGS I LEARNED ON THE JOB**
 
 A few weeks ago, I was introduced to a project [TheLadders][0] is running about lessons learned on your first jobs. TheLadders is a comprehensive career platform that helps make job searching simpler, focused, and more efficient! I encourage any of you who are on the job hunt tocheck them out! I remember around this time last year when I was going through the process of finding a job, scratch that, the NEVER ENDING process of finding a job (those of you who haven't had to job hunt in these modern times when you are up against a TON of qualified candidates, you haven't lived) All that being said, I wish I had discovered TheLadders while I was job hunting; every little bit helps!
 
