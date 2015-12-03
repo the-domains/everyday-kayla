@@ -1,8 +1,7 @@
 name: Everyday Kayla
 favicon: null
-layout_spectrum: 0.75042
-typography_spectrum: 0.28657
-title: Everyday Kayla
+layout_spectrum: 0.8370476583950222
+typography_spectrum: 0.25473906146362424
 cta:
   domain: null
   bucket: null
@@ -17,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#f2e6d8'
-    - '#000000'
-    - '#a7b1a8'
-    - '#678b97'
-    - '#484944'
-  brandStrength: 0.375
-  lightness: 0.875
-  saturation: 0.1875
-  rhythmicContrast: 0.5
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9187829582951963
+  lightness: 0.89165492169559
+  saturation: 0.32800113852135837
+  rhythmicContrast: 0.567331578116864
 purpose: []
