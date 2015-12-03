@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Everyday Kayla]]></title>
+        <description><![CDATA[Everyday Kayla]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 03 Dec 2015 03:20:45 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Everyday Kayla Logo]]></title>
+            <description><![CDATA[<article><h1>Everyday Kayla Logo</h1><p>Company Logo</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/af06bf14-3ff0-44ca-9b75-d45a30eeb05e.png"></article>]]></description>
+            <link>undefinedeveryday-kayla-logo/index.html</link>
+            <guid isPermaLink="false">47d5339b-6b0a-4627-bf35-8dd6693d18ad</guid>
+            <pubDate>Thu, 03 Dec 2015 03:19:46 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
