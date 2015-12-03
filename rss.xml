@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Everyday Kayla]]></title>
         <description><![CDATA[Everyday Kayla]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/everyday-kayla/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Dec 2015 03:20:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 03 Dec 2015 03:43:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/everyday-kayla/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[10 Things I Learned On The Job]]></title>
+            <description><![CDATA[<article><h1>10 Things I Learned On The Job</h1><p>10 THINGS I LEARNED ON THE JOB</p></article>]]></description>
+            <link>https://thegrid.ai/everyday-kayla/10-things-i-learned-on-the-job/index.html</link>
+            <guid isPermaLink="false">447868ca-c2f2-4c74-8767-9a180075341b</guid>
+            <pubDate>Thu, 03 Dec 2015 03:43:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Everyday Kayla Logo]]></title>
             <description><![CDATA[<article><h1>Everyday Kayla Logo</h1><p>Company Logo</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/af06bf14-3ff0-44ca-9b75-d45a30eeb05e.png"></article>]]></description>
-            <link>undefinedeveryday-kayla-logo/index.html</link>
+            <link>https://thegrid.ai/everyday-kayla/everyday-kayla-logo/index.html</link>
             <guid isPermaLink="false">47d5339b-6b0a-4627-bf35-8dd6693d18ad</guid>
             <pubDate>Thu, 03 Dec 2015 03:19:46 GMT</pubDate>
         </item>
